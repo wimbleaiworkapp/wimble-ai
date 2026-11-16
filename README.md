@@ -1,49 +1,48 @@
 
 <div align="center">
 
-<img src="assets/namaste.svg" width="100%" alt="Wimble AI Namaste Welcome"/>
+<img src="assets/portal.svg" width="100%" alt="Wimble AI animated welcome portal"/>
 
-# W I M B L E
+<br/>
 
-### WIN YOUR DAY.
+<img src="https://readme-typing-svg.herokuapp.com?font=Georgia&weight=700&size=35&duration=1800&pause=500&color=FFFFFF&background=00000000&center=true&vCenter=true&width=650&lines=WIMBLE;WIMBLE+AI;WIMBLE;WIN+YOUR+DAY." alt="Wimble typing animation"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Georgia&size=20&duration=2500&pause=1000&color=111111&center=true&vCenter=true&width=600&lines=Welcome+to+Wimble+AI.;Your+day.+Your+space.;Intelligence+meets+everyday+life."/>
+<br/>
 
-**An intelligent personal workspace.**
+<img src="https://readme-typing-svg.herokuapp.com?font=Georgia&size=23&duration=2000&pause=600&color=08B6E8&center=true&vCenter=true&width=650&lines=Welcome+to+Wimble.;Welcome+to+your+personal+workspace.;Welcome+to+a+new+way+to+win+your+day." alt="Welcome animation"/>
 
 </div>
 
 ---
 
-## Welcome to Wimble AI
+<div align="center">
 
-Wimble AI is being built to bring artificial intelligence, everyday tools, productivity and personal organisation into one connected experience.
+# THE WORLD OF WIMBLE
 
-**One workspace. Your entire day.**
+### One intelligent space. Your entire day.
 
-## The Wimble Experience
+</div>
 
-| Everyday Tools | Intelligent Assistance |
-|---|---|
-| Notes | AI conversations |
-| Calendar | AI summaries |
-| To-do lists | Search assistance |
-| Lists and checks | Everyday suggestions |
+Wimble AI is an intelligent personal workspace bringing everyday tools, AI assistance, productivity and personal organisation together.
 
-| Personal Workspace | Shortcuts |
-|---|---|
-| Finance | Fitness |
-| Personal insights | Tours |
-| Activity | Clock |
+## ✦ OUR PHILOSOPHY
 
-## Our Philosophy
+| SIMPLICITY | INTELLIGENCE |
+|:---:|:---:|
+| Less clutter. More clarity. | AI with purpose. |
+| PERSONALISATION | OWNERSHIP |
+| Your experience. Your way. | Win your day. |
 
-- Simplicity over complexity.
-- Intelligence with purpose.
-- Personalisation by design.
-- Ownership of your day.
+## ◈ THE EXPERIENCE
 
-## Our Colour Identity
+- Everyday tools — Notes, Calendar, To-do and Lists.
+- AI assistance — Conversations, search and summaries.
+- Shortcuts — Finance, Tours, Fitness and Clock.
+- Personal insights — Activity, progress and daily reports.
+
+*Features are actively being developed.*
+
+## 🎨 YOUR COLOUR. YOUR IDENTITY.
 
 <div align="center">
 
@@ -59,23 +58,23 @@ Wimble AI is being built to bring artificial intelligence, everyday tools, produ
 ![Purple](https://img.shields.io/badge/Purple-9050EB?style=for-the-badge)
 ![Black](https://img.shields.io/badge/Black-111111?style=for-the-badge)
 
-**Black is the default. Choose your own accent.**
+**Black is the default. Ten accent choices.**
 
 </div>
 
-## Technology
+## ⚙️ TECHNOLOGY
 
 **Languages**
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql)
 
-**Tools and infrastructure**
+**Development tools**
 
-![React](https://img.shields.io/badge/React-111111?style=flat-square&logo=react&logoColor=61DAFB)
+![React](https://img.shields.io/badge/React-111111?style=flat-square&logo=react)
 ![Vite](https://img.shields.io/badge/Vite-111111?style=flat-square&logo=vite)
 ![Supabase](https://img.shields.io/badge/Supabase-111111?style=flat-square&logo=supabase)
 ![Gemini](https://img.shields.io/badge/Gemini-111111?style=flat-square&logo=googlegemini)
@@ -84,28 +83,20 @@ Wimble AI is being built to bring artificial intelligence, everyday tools, produ
 
 ---
 
-## The Founder
-
 <div align="center">
+
+## THE PERSON BEHIND WIMBLE
 
 # Chaitan Atapalakar
 
-**Founder & Independent Builder — Wimble AI**
+**Founder & Independent Builder**
 
 *"Think beyond the ordinary. Build beyond the obvious."*
 
-</div>
+<br/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=0:111111,25:436CF5,50:08B6E8,75:9050EB,100:111111&text=WIMBLE&fontSize=48&fontColor=FFFFFF&animation=fadeIn&desc=WIN%20YOUR%20DAY.&descSize=18&descColor=FFFFFF&descAlignY=75"/>
 
-<div align="center">
-
-# WIMBLE
-
-### WIN YOUR DAY.
-
-<sub>Conceived and built by Chaitan Atapalakar</sub>
-
-<sub>© 2026 Wimble AI</sub>
+<sub>Conceived and built by Chaitan Atapalakar · © 2026 Wimble AI</sub>
 
 </div>
