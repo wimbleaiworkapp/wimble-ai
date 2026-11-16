@@ -5,11 +5,11 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans&weight=900&size=64&duration=1700&pause=650&color=000000&center=true&vCenter=true&width=1100&height=130&lines=ನಮಸ್ಕಾರ;வணக்கம்;नमस्ते;নমস্কার;నమస్కారం;നമസ്കാരം;નમસ્તે;ਸਤਿ+ਸ੍ਰੀ+ਅਕਾਲ;ନମସ୍କାର;নমস্কার;नमस्कार;आदाब"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans&weight=400&size=58&duration=1600&pause=650&color=000000&center=true&vCenter=true&width=1100&height=120&lines=ನಮಸ್ಕಾರ;வணக்கம்;नमस्ते;నమస్కారం;നമസ്കാരം;নমস্কার;WELCOME"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=27&duration=2500&pause=1000&color=000000&center=true&vCenter=true&width=1000&height=65&lines=WELCOME+TO+OUR+FAMILY"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=30&duration=2500&pause=1000&color=000000&center=true&vCenter=true&width=1000&height=65&lines=WELCOME+TO+OUR+FAMILY"/>
 
 <br/><br/>
 
@@ -17,7 +17,7 @@
 
 <br/>
 
-<sub>22 LANGUAGES · ONE CONNECTED EXPERIENCE</sub>
+<sub>SEVEN LANGUAGES · ONE CONNECTED EXPERIENCE</sub>
 
 <br/><br/>
 
