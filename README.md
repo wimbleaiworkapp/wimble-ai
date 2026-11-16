@@ -3,13 +3,17 @@
 
 <img src="assets/portal.svg" width="100%" alt="Wimble AI"/>
 
+<br/><br/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans&weight=900&size=64&duration=1700&pause=650&color=000000&center=true&vCenter=true&width=1100&height=130&lines=ನಮಸ್ಕಾರ;வணக்கம்;नमस्ते;নমস্কার;నమస్కారం;നമസ്കാരം;નમસ્તે;ਸਤਿ+ਸ੍ਰੀ+ਅਕਾਲ;ନମସ୍କାର;নমস্কার;नमस्कार;आदाब"/>
+
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=42&duration=1100&pause=350&color=FFFFFF&center=true&vCenter=true&width=850&lines=WIMBLE;WIMBLE+AI;WIN+YOUR+DAY."/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=27&duration=2500&pause=1000&color=000000&center=true&vCenter=true&width=1000&height=65&lines=WELCOME+TO+OUR+FAMILY"/>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans&weight=800&size=48&duration=1700&pause=650&color=08B6E8&center=true&vCenter=true&width=1000&height=110&lines=ನಮಸ್ಕಾರ;வணக்கம்;नमस्ते;নমস্কার;నమస్కారం;നമസ്കാരം;નમસ્તે;ਸਤਿ+ਸ੍ਰੀ+ਅਕਾਲ;ନମସ୍କାର;নমস্কার;नमस्कार;नमस्कार"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=38&duration=1200&pause=350&color=FFFFFF&center=true&vCenter=true&width=850&lines=WIMBLE;WIMBLE+AI;WIN+YOUR+DAY."/>
 
 <br/>
 
