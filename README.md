@@ -1,15 +1,21 @@
 
 <div align="center">
 
-<img src="assets/portal.svg" width="100%" alt="Wimble animated portal"/>
+<img src="assets/portal.svg" width="100%" alt="Wimble AI futuristic portal"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Georgia&weight=700&size=38&duration=1600&pause=500&color=FFFFFF&center=true&vCenter=true&width=700&lines=WIMBLE;WIMBLE+AI;WIN+YOUR+DAY." />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=38&duration=1100&pause=350&color=FFFFFF&center=true&vCenter=true&width=750&lines=WIMBLE;WIMBLE+AI;WIN+YOUR+DAY."/>
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Georgia&size=20&duration=2200&pause=700&color=08B6E8&center=true&vCenter=true&width=700&lines=Welcome+to+Wimble.;A+new+way+to+experience+your+day.;Your+personal+intelligent+workspace."/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=1300&pause=350&color=08B6E8&center=true&vCenter=true&width=750&lines=Namaste;Vanakkam;Namaskara;Nomoshkar;Kem+Cho;Sat+Sri+Akal;Johar;Namaskaram;Welcome+to+Wimble."/>
+
+<br/>
+
+**AN INTELLIGENT PERSONAL WORKSPACE**
+
+*One connected experience. One personal workspace. Your day.*
 
 </div>
 
@@ -17,7 +23,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0:111111,50:436CF5,100:9050EB&text=THE%20WORLD%20OF%20WIMBLE&fontSize=27&fontColor=FFFFFF&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0:030712,50:071B3A,100:075985&text=THE%20WORLD%20OF%20WIMBLE&fontSize=27&fontColor=FFFFFF&animation=fadeIn"/>
 
 </div>
 
@@ -33,43 +39,31 @@ Wimble AI is an intelligent personal workspace designed to bring artificial inte
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/01-EVERYDAY_TOOLS-436CF5?style=for-the-badge"/>
-
-</div>
+![Everyday](https://img.shields.io/badge/01-EVERYDAY_TOOLS-436CF5?style=for-the-badge)
 
 Notes · Calendar · Tasks · Lists
 
 <br/>
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/02-INTELLIGENT_ASSISTANCE-08B6E8?style=for-the-badge"/>
-
-</div>
+![Intelligence](https://img.shields.io/badge/02-INTELLIGENT_ASSISTANCE-08B6E8?style=for-the-badge)
 
 AI Conversations · Search · Summaries · Suggestions
 
 <br/>
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/03-PERSONAL_WORKSPACE-00B99A?style=for-the-badge"/>
-
-</div>
+![Workspace](https://img.shields.io/badge/03-PERSONAL_WORKSPACE-00B99A?style=for-the-badge)
 
 Finance · Fitness · Travel · Clock
 
 <br/>
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/04-PERSONAL_INSIGHTS-9050EB?style=for-the-badge"/>
-
-</div>
+![Insights](https://img.shields.io/badge/04-PERSONAL_INSIGHTS-9050EB?style=for-the-badge)
 
 Activity · Progress · Daily Overview · Organisation
 
 <sub>Product experiences are under development.</sub>
+
+</div>
 
 ---
 
@@ -78,28 +72,16 @@ Activity · Progress · Daily Overview · Organisation
 <div align="center">
 
 ### SIMPLICITY
-
 Less clutter. More clarity.
 
-![Blue](https://img.shields.io/badge/━━━━━━━━━━━━━━━━-436CF5?style=flat)
-
 ### INTELLIGENCE
-
 AI with purpose.
 
-![Cyan](https://img.shields.io/badge/━━━━━━━━━━━━━━━━-08B6E8?style=flat)
-
 ### PERSONALISATION
-
 Your workspace. Your way.
 
-![Green](https://img.shields.io/badge/━━━━━━━━━━━━━━━━-00B99A?style=flat)
-
 ### OWNERSHIP
-
 Win your day.
-
-![Purple](https://img.shields.io/badge/━━━━━━━━━━━━━━━━-9050EB?style=flat)
 
 </div>
 
@@ -129,7 +111,7 @@ Win your day.
 
 ## ⚙️ TECHNOLOGY
 
-### Programming Languages
+### Development Languages
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111)
@@ -152,7 +134,7 @@ Win your day.
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Georgia&size=20&duration=2500&pause=1000&color=9050EB&center=true&vCenter=true&width=650&lines=An+idea+becomes+a+vision.;A+vision+becomes+a+creation.;A+creation+becomes+a+journey."/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2000&pause=700&color=08B6E8&center=true&vCenter=true&width=700&lines=An+idea+becomes+a+vision.;A+vision+becomes+a+creation.;A+creation+becomes+a+journey."/>
 
 </div>
 
@@ -168,7 +150,7 @@ Win your day.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=100&color=0:436CF5,30:08B6E8,60:9050EB,100:F052A0&text=THE%20PERSON%20BEHIND%20WIMBLE&fontSize=23&fontColor=FFFFFF&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0:030712,50:071B3A,100:075985&text=THE%20PERSON%20BEHIND%20WIMBLE&fontSize=23&fontColor=FFFFFF&animation=fadeIn"/>
 
 <br/>
 
@@ -182,7 +164,7 @@ Building at the intersection of artificial intelligence, technology and everyday
 
 <br/>
 
-<img src="https://img.shields.io/badge/FOUNDER-CHAITAN_ATAPALAKAR-111111?style=for-the-badge"/>
+![Founder](https://img.shields.io/badge/FOUNDER-CHAITAN_ATAPALAKAR-111111?style=for-the-badge)
 
 </div>
 
@@ -190,13 +172,15 @@ Building at the intersection of artificial intelligence, technology and everyday
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Georgia&weight=700&size=30&duration=2000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=WIMBLE;WIN+YOUR+DAY.;THIS+IS+JUST+THE+BEGINNING."/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=29&duration=1500&pause=500&color=FFFFFF&center=true&vCenter=true&width=700&lines=WIMBLE;WIN+YOUR+DAY.;THIS+IS+JUST+THE+BEGINNING."/>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:111111,20:436CF5,40:08B6E8,60:00B99A,80:9050EB,100:F052A0&text=WIMBLE&fontSize=50&fontColor=FFFFFF&animation=fadeIn&desc=WIN%20YOUR%20DAY.&descSize=20&descColor=FFFFFF&descAlignY=75"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:030712,40:075985,70:436CF5,100:08B6E8&text=WIMBLE&fontSize=48&fontColor=FFFFFF&animation=fadeIn&desc=WIN%20YOUR%20DAY.&descSize=18&descColor=FFFFFF&descAlignY=75"/>
 
 <sub>Conceived and built by Chaitan Atapalakar</sub>
+
+<br/>
 
 <sub>© 2026 Wimble AI</sub>
 
