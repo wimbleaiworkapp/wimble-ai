@@ -1,17 +1,21 @@
 
 <div align="center">
 
-<img src="assets/portal.svg" width="100%" alt="Wimble AI futuristic portal"/>
+<img src="assets/portal.svg" width="100%" alt="Wimble AI"/>
 
 <br/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=38&duration=1100&pause=350&color=FFFFFF&center=true&vCenter=true&width=750&lines=WIMBLE;WIMBLE+AI;WIN+YOUR+DAY."/>
 
+<br/><br/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans&weight=500&size=34&duration=1800&pause=700&color=FFFFFF&center=true&vCenter=true&width=850&lines=ನಮಸ್ಕಾರ;வணக்கம்;नमस्ते;নমস্কার;నమస్కారం;నమస్కారం;നമസ്കാരം;નમસ્તે;ਸਤਿ+ਸ੍ਰੀ+ਅਕਾਲ;नमस्कार;ନମସ୍କାର;আদাব"/>
+
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=1300&pause=350&color=08B6E8&center=true&vCenter=true&width=750&lines=Namaste;Vanakkam;Namaskara;Nomoshkar;Kem+Cho;Sat+Sri+Akal;Johar;Namaskaram;Welcome+to+Wimble."/>
+<sub>22 LANGUAGES. ONE CONNECTED EXPERIENCE.</sub>
 
-<br/>
+<br/><br/>
 
 **AN INTELLIGENT PERSONAL WORKSPACE**
 
@@ -96,7 +100,6 @@ Win your day.
 ![Cyan](https://img.shields.io/badge/CYAN-08B6E8?style=for-the-badge)
 ![Green](https://img.shields.io/badge/GREEN-00B99A?style=for-the-badge)
 ![Lime](https://img.shields.io/badge/LIME-B4D900?style=for-the-badge)
-
 ![Yellow](https://img.shields.io/badge/YELLOW-FFC629?style=for-the-badge)
 ![Orange](https://img.shields.io/badge/ORANGE-FF795F?style=for-the-badge)
 ![Pink](https://img.shields.io/badge/PINK-F052A0?style=for-the-badge)
