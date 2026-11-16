@@ -1,319 +1,96 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:111111,15:436CF5,27:08B6E8,39:00B99A,51:B4D900,63:FFC629,75:FF795F,87:F052A0,100:9050EB&text=WIMBLE&fontSize=78&fontColor=FFFFFF&fontAlignY=40&animation=fadeIn&desc=WIN%20YOUR%20DAY.&descSize=24&descColor=FFFFFF&descAlignY=62"/>
+<img src="assets/namaste.svg" width="100%" alt="Wimble AI Namaste Welcome"/>
 
-<br/>
+# W I M B L E
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Georgia&weight=600&size=21&duration=2800&pause=1000&color=111111&center=true&vCenter=true&width=700&lines=Welcome+to+Wimble+AI.;Your+day%2C+beautifully+organised.;Intelligence+that+works+with+you.;One+workspace.+Your+entire+day."/>
+### WIN YOUR DAY.
 
-<br/><br/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Georgia&size=20&duration=2500&pause=1000&color=111111&center=true&vCenter=true&width=600&lines=Welcome+to+Wimble+AI.;Your+day.+Your+space.;Intelligence+meets+everyday+life."/>
 
-<img src="https://img.shields.io/badge/WIMBLE_AI-111111?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/WIN_YOUR_DAY-436CF5?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/BUILDING-00B99A?style=for-the-badge"/>
-
-### A smarter way to experience your everyday.
-
-[Our Vision](#-our-vision) · [The Experience](#-the-wimble-experience) · [Brand Identity](#-the-wimble-colour-system) · [Technology](#-technology) · [Founder](#-the-founder)
+**An intelligent personal workspace.**
 
 </div>
 
 ---
 
-<div align="center">
+## Welcome to Wimble AI
 
-# WELCOME TO WIMBLE
+Wimble AI is being built to bring artificial intelligence, everyday tools, productivity and personal organisation into one connected experience.
 
-### Your day. Your space. Your possibilities.
+**One workspace. Your entire day.**
 
-</div>
+## The Wimble Experience
 
-The digital world gives us countless applications, but our everyday lives still feel disconnected.
-
-**Wimble AI** is being built around a different idea: bringing everyday tools, intelligent assistance, organisation and personal insights into one connected personal workspace.
-
-We want technology to feel natural, useful and personal.
-
-Not more digital noise.
-
-**A better way to win your day.**
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0:111111,50:436CF5,100:9050EB&text=WIN%20YOUR%20DAY.&fontSize=32&fontColor=FFFFFF"/>
-
-</div>
-
-## ✦ Our Vision
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Georgia&size=20&duration=3000&pause=1000&color=436CF5&center=true&vCenter=true&width=650&lines=One+space+for+your+everyday.;One+intelligent+experience.;Technology+that+works+with+your+life."/>
-
-Wimble envisions a connected digital experience where people can:
-
-- Organise their everyday activities.
-- Interact with an intelligent AI assistant.
-- Manage personal workflows.
-- Understand their progress.
-- Access useful everyday tools.
-- Bring different aspects of life together.
-
----
-
-## ◈ The Wimble Experience
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🗒 Everyday Tools
-
-- Notes
-- Calendar
-- To-do lists
-- Lists and checks
-
-</td>
-<td width="50%" valign="top">
-
-### ✨ AI Assistance
-
-- AI conversations
-- Everyday assistance
-- Search assistance
-- AI summaries
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ◉ Shortcuts
-
-- Finance
-- Tours and travel
-- Fitness
-- Clock
-
-</td>
-<td width="50%" valign="top">
-
-### 📊 Personal Insights
-
-- Daily summaries
-- Activity overview
-- Progress tracking
-- Personal organisation
-
-</td>
-</tr>
-</table>
-
-<sub>These represent the intended product experience; availability depends on development progress.</sub>
-
----
-
-## 🎨 The Wimble Colour System
-
-<div align="center">
-
-### YOUR ACCENT. YOUR EXPERIENCE.
-
-**Black is the default. Nine more colours make Wimble personal.**
-
-<table>
-<tr>
-<td align="center">
-
-<img src="https://img.shields.io/badge/●-436CF5?style=for-the-badge"/>
-
-**Blue**
-
-</td>
-<td align="center">
-
-<img src="https://img.shields.io/badge/●-08B6E8?style=for-the-badge"/>
-
-**Cyan**
-
-</td>
-<td align="center">
-
-<img src="https://img.shields.io/badge/●-00B99A?style=for-the-badge"/>
-
-**Green**
-
-</td>
-<td align="center">
-
-<img src="https://img.shields.io/badge/●-B4D900?style=for-the-badge"/>
-
-**Lime**
-
-</td>
-<td align="center">
-
-<img src="https://img.shields.io/badge/●-FFC629?style=for-the-badge"/>
-
-**Yellow**
-
-</td>
-</tr>
-<tr>
-<td align="center">
-
-<img src="https://img.shields.io/badge/●-FF795F?style=for-the-badge"/>
-
-**Orange**
-
-</td>
-<td align="center">
-
-<img src="https://img.shields.io/badge/●-F052A0?style=for-the-badge"/>
-
-**Pink**
-
-</td>
-<td align="center">
-
-<img src="https://img.shields.io/badge/●-D34DD5?style=for-the-badge"/>
-
-**Magenta**
-
-</td>
-<td align="center">
-
-<img src="https://img.shields.io/badge/●-9050EB?style=for-the-badge"/>
-
-**Purple**
-
-</td>
-<td align="center">
-
-<img src="https://img.shields.io/badge/●-111111?style=for-the-badge"/>
-
-**Black · Default**
-
-</td>
-</tr>
-</table>
-
-</div>
-
-### Our design language
-
-- Minimal and typography-led.
-- Black as the default accent.
-- User-selectable accent colours.
-- Soft white and warm-grey surfaces.
-- Subtle neumorphic inspiration.
-- Clean icons and purposeful spacing.
-
-**One identity. Ten accent choices.**
-
----
-
-## ⚙️ Technology
-
-<div align="center">
-
-### PROGRAMMING LANGUAGES
-
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-
-<br/><br/>
-
-### DEVELOPMENT ECOSYSTEM
-
-<img src="https://img.shields.io/badge/React-111111?style=flat-square&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Vite-111111?style=flat-square&logo=vite&logoColor=FFD62E"/>
-<img src="https://img.shields.io/badge/Supabase-111111?style=flat-square&logo=supabase&logoColor=3FCF8E"/>
-<img src="https://img.shields.io/badge/Gemini-111111?style=flat-square&logo=googlegemini&logoColor=8E75B2"/>
-<img src="https://img.shields.io/badge/Vercel-111111?style=flat-square&logo=vercel&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=FFFFFF"/>
-
-</div>
-
-| Technology | Role |
+| Everyday Tools | Intelligent Assistance |
 |---|---|
-| TypeScript / JavaScript | Application development |
-| HTML / CSS | Web structure and styling |
-| SQL | Database queries |
-| React | User interface |
-| Supabase | Backend and database |
-| Gemini | AI capabilities |
-| Vercel | Deployment |
-| GitHub | Version control |
+| Notes | AI conversations |
+| Calendar | AI summaries |
+| To-do lists | Search assistance |
+| Lists and checks | Everyday suggestions |
 
----
-
-## ◉ The Journey
-
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Georgia&size=19&duration=3000&pause=1000&color=00B99A&center=true&vCenter=true&width=650&lines=An+idea+becomes+a+vision.;A+vision+becomes+a+product.;A+product+grows+through+every+iteration."/>
-
-</div>
-
-| Phase | Focus |
+| Personal Workspace | Shortcuts |
 |---|---|
-| 01 | Idea and brand philosophy |
-| 02 | Product architecture and interface |
-| 03 | AI integration and workspace development |
-| 04 | Testing and refinement |
-| 05 | Product evolution |
+| Finance | Fitness |
+| Personal insights | Tours |
+| Activity | Clock |
 
----
+## Our Philosophy
 
-## ✧ What Wimble Believes
+- Simplicity over complexity.
+- Intelligence with purpose.
+- Personalisation by design.
+- Ownership of your day.
+
+## Our Colour Identity
 
 <div align="center">
 
-### LESS CLUTTER. MORE CLARITY.
+![Blue](https://img.shields.io/badge/Blue-436CF5?style=for-the-badge)
+![Cyan](https://img.shields.io/badge/Cyan-08B6E8?style=for-the-badge)
+![Green](https://img.shields.io/badge/Green-00B99A?style=for-the-badge)
+![Lime](https://img.shields.io/badge/Lime-B4D900?style=for-the-badge)
+![Yellow](https://img.shields.io/badge/Yellow-FFC629?style=for-the-badge)
 
-<sub>Technology should simplify everyday life.</sub>
+![Orange](https://img.shields.io/badge/Orange-FF795F?style=for-the-badge)
+![Pink](https://img.shields.io/badge/Pink-F052A0?style=for-the-badge)
+![Magenta](https://img.shields.io/badge/Magenta-D34DD5?style=for-the-badge)
+![Purple](https://img.shields.io/badge/Purple-9050EB?style=for-the-badge)
+![Black](https://img.shields.io/badge/Black-111111?style=for-the-badge)
 
-<br/>
-
-### INTELLIGENCE WITH PURPOSE.
-
-<sub>AI should be useful, not just impressive.</sub>
-
-<br/>
-
-### PERSONAL BY DESIGN.
-
-<sub>Your workspace should feel like yours.</sub>
-
-<br/>
-
-### OWN YOUR DAY.
-
-<sub>Your time. Your decisions. Your possibilities.</sub>
+**Black is the default. Choose your own accent.**
 
 </div>
 
+## Technology
+
+**Languages**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
+**Tools and infrastructure**
+
+![React](https://img.shields.io/badge/React-111111?style=flat-square&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-111111?style=flat-square&logo=vite)
+![Supabase](https://img.shields.io/badge/Supabase-111111?style=flat-square&logo=supabase)
+![Gemini](https://img.shields.io/badge/Gemini-111111?style=flat-square&logo=googlegemini)
+![Vercel](https://img.shields.io/badge/Vercel-111111?style=flat-square&logo=vercel)
+![GitHub](https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github)
+
 ---
 
-## 👨‍💻 The Founder
+## The Founder
 
 <div align="center">
-
-<img src="https://img.shields.io/badge/FOUNDED_BY-111111?style=for-the-badge"/>
 
 # Chaitan Atapalakar
 
-### Founder & Independent Builder — Wimble AI
-
-Building at the intersection of artificial intelligence, technology, productivity and everyday life.
-
-An idea, a vision and a journey of continuous creation.
+**Founder & Independent Builder — Wimble AI**
 
 *"Think beyond the ordinary. Build beyond the obvious."*
 
@@ -323,14 +100,12 @@ An idea, a vision and a journey of continuous creation.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=footer&color=0:111111,15:436CF5,30:08B6E8,45:00B99A,60:B4D900,75:FFC629,88:F052A0,100:9050EB&text=WIMBLE&fontSize=60&fontColor=FFFFFF&animation=fadeIn&desc=WIN%20YOUR%20DAY.&descSize=22&descColor=FFFFFF&descAlignY=73"/>
+# WIMBLE
 
-### YOUR DAY. YOUR WAY.
-
-**Wimble AI**
+### WIN YOUR DAY.
 
 <sub>Conceived and built by Chaitan Atapalakar</sub>
 
-<sub>© 2026 Wimble AI. All rights reserved.</sub>
+<sub>© 2026 Wimble AI</sub>
 
 </div>
