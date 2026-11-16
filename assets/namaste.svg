@@ -1,0 +1,162 @@
+
+<svg xmlns="http://www.w3.org/2000/svg"
+     viewBox="0 0 900 520"
+     width="900" height="520">
+
+<defs>
+  <radialGradient id="bg">
+    <stop offset="0%" stop-color="#202027"/>
+    <stop offset="100%" stop-color="#000000"/>
+  </radialGradient>
+
+  <linearGradient id="neon">
+    <stop stop-color="#436CF5"/>
+    <stop offset="30%" stop-color="#08B6E8"/>
+    <stop offset="55%" stop-color="#00B99A"/>
+    <stop offset="75%" stop-color="#F052A0"/>
+    <stop offset="100%" stop-color="#9050EB"/>
+  </linearGradient>
+
+  <filter id="glow">
+    <feGaussianBlur stdDeviation="7" result="blur"/>
+    <feMerge>
+      <feMergeNode in="blur"/>
+      <feMergeNode in="SourceGraphic"/>
+    </feMerge>
+  </filter>
+
+  <style>
+    .person {
+      opacity:0;
+      animation:enter 2.5s ease-out forwards;
+    }
+
+    .hands {
+      transform-box:fill-box;
+      transform-origin:center;
+      animation:join 1.5s ease-in-out 2s forwards;
+    }
+
+    .word {
+      opacity:0;
+      animation:change 36s infinite;
+      font-family:serif;
+      font-weight:bold;
+      fill:white;
+      text-anchor:middle;
+      font-size:48px;
+    }
+
+    @keyframes enter {
+      from {opacity:0;transform:translateX(-180px)}
+      to {opacity:1;transform:translateX(0)}
+    }
+
+    @keyframes join {
+      from {transform:scale(.5)}
+      to {transform:scale(1)}
+    }
+
+    @keyframes change {
+      0%,2% {opacity:0}
+      4%,9% {opacity:1}
+      11%,100% {opacity:0}
+    }
+
+    .w1{animation-delay:0s}
+    .w2{animation-delay:4s}
+    .w3{animation-delay:8s}
+    .w4{animation-delay:12s}
+    .w5{animation-delay:16s}
+    .w6{animation-delay:20s}
+    .w7{animation-delay:24s}
+    .w8{animation-delay:28s}
+    .w9{animation-delay:32s}
+    .w10{animation-delay:34s}
+  </style>
+</defs>
+
+<rect width="900" height="520" fill="url(#bg)"/>
+
+<ellipse cx="450" cy="280" rx="280" ry="180"
+         fill="none" stroke="url(#neon)"
+         stroke-width="2" opacity=".65"
+         filter="url(#glow)">
+  <animate attributeName="rx"
+           values="260;300;260"
+           dur="6s" repeatCount="indefinite"/>
+</ellipse>
+
+<!-- Welcome words -->
+<g>
+  <text class="word w1" x="450" y="90">विम्बल</text>
+  <text class="word w2" x="450" y="90">উইম্বল</text>
+  <text class="word w3" x="450" y="90">వింబుల్</text>
+  <text class="word w4" x="450" y="90">விம்பிள்</text>
+  <text class="word w5" x="450" y="90">ವಿಂಬಲ್</text>
+  <text class="word w6" x="450" y="90">વિમ્બલ</text>
+  <text class="word w7" x="450" y="90">ਵਿੰਬਲ</text>
+  <text class="word w8" x="450" y="90">വിമ്പിൾ</text>
+  <text class="word w9" x="450" y="90">ଵିମ୍ବଲ</text>
+  <text class="word w10" x="450" y="90">विम्बल</text>
+</g>
+
+<!-- Character -->
+<g class="person">
+
+  <!-- Body -->
+  <path d="M340 490 Q345 320 450 310
+           Q555 320 560 490Z"
+        fill="#171824" stroke="url(#neon)"
+        stroke-width="3"/>
+
+  <!-- Neck -->
+  <rect x="425" y="270" width="50" height="70"
+        rx="15" fill="#A96F4D"/>
+
+  <!-- Head -->
+  <ellipse cx="450" cy="220" rx="75" ry="90"
+           fill="#B77C58"/>
+
+  <!-- Hair -->
+  <path d="M375 210 Q365 115 450 120
+           Q535 115 525 210
+           Q485 160 450 175
+           Q410 160 375 210Z"
+        fill="#151515"/>
+
+  <!-- Face -->
+  <circle cx="425" cy="225" r="4" fill="#111"/>
+  <circle cx="475" cy="225" r="4" fill="#111"/>
+  <path d="M430 260 Q450 275 470 260"
+        fill="none" stroke="#542F2A"
+        stroke-width="3"/>
+
+  <!-- Arms joining in Namaste -->
+  <g class="hands">
+    <path d="M370 360 Q405 300 450 230"
+          stroke="#B77C58" stroke-width="25"
+          stroke-linecap="round" fill="none"/>
+    <path d="M530 360 Q495 300 450 230"
+          stroke="#B77C58" stroke-width="25"
+          stroke-linecap="round" fill="none"/>
+
+    <!-- Palms -->
+    <path d="M450 230 Q420 190 430 155
+             Q450 175 450 195
+             Q450 175 470 155
+             Q480 190 450 230Z"
+          fill="#D29A73"
+          stroke="#F5C39C" stroke-width="2"/>
+  </g>
+
+</g>
+
+<text x="450" y="490"
+      fill="#FFFFFF" opacity=".75"
+      font-size="22" letter-spacing="6"
+      font-family="Georgia" text-anchor="middle">
+  WIN YOUR DAY
+</text>
+
+</svg>
