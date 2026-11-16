@@ -5,15 +5,15 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=38&duration=1100&pause=350&color=FFFFFF&center=true&vCenter=true&width=750&lines=WIMBLE;WIMBLE+AI;WIN+YOUR+DAY."/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=42&duration=1100&pause=350&color=FFFFFF&center=true&vCenter=true&width=850&lines=WIMBLE;WIMBLE+AI;WIN+YOUR+DAY."/>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans&weight=500&size=34&duration=1800&pause=700&color=FFFFFF&center=true&vCenter=true&width=850&lines=ನಮಸ್ಕಾರ;வணக்கம்;नमस्ते;নমস্কার;నమస్కారం;నమస్కారం;നമസ്കാരം;નમસ્તે;ਸਤਿ+ਸ੍ਰੀ+ਅਕਾਲ;नमस्कार;ନମସ୍କାର;আদাব"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans&weight=800&size=48&duration=1700&pause=650&color=08B6E8&center=true&vCenter=true&width=1000&height=110&lines=ನಮಸ್ಕಾರ;வணக்கம்;नमस्ते;নমস্কার;నమస్కారం;നമസ്കാരം;નમસ્તે;ਸਤਿ+ਸ੍ਰੀ+ਅਕਾਲ;ନମସ୍କାର;নমস্কার;नमस्कार;नमस्कार"/>
 
 <br/>
 
-<sub>22 LANGUAGES. ONE CONNECTED EXPERIENCE.</sub>
+<sub>22 LANGUAGES · ONE CONNECTED EXPERIENCE</sub>
 
 <br/><br/>
 
@@ -47,19 +47,19 @@ Wimble AI is an intelligent personal workspace designed to bring artificial inte
 
 Notes · Calendar · Tasks · Lists
 
-<br/>
+<br/><br/>
 
 ![Intelligence](https://img.shields.io/badge/02-INTELLIGENT_ASSISTANCE-08B6E8?style=for-the-badge)
 
 AI Conversations · Search · Summaries · Suggestions
 
-<br/>
+<br/><br/>
 
 ![Workspace](https://img.shields.io/badge/03-PERSONAL_WORKSPACE-00B99A?style=for-the-badge)
 
 Finance · Fitness · Travel · Clock
 
-<br/>
+<br/><br/>
 
 ![Insights](https://img.shields.io/badge/04-PERSONAL_INSIGHTS-9050EB?style=for-the-badge)
 
