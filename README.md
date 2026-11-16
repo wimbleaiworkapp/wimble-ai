@@ -1,19 +1,23 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,35:312E81,70:6D28D9,100:06B6D4&height=230&section=header&text=WIMBLE%20AI&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=OWN%20YOUR%20DAY&descAlignY=60&descSize=18" width="100%"/>
-
-# ✦ Welcome to Wimble AI
-
-### Your day. Your intelligence. Your possibilities.
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=An+intelligent+personal+workspace.;Where+AI+meets+everyday+life.;One+connected+digital+experience.;Currently+building+something+meaningful." />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:09090F,25:312E81,55:6D28D9,80:0891B2,100:06B6D4&text=WIMBLE%20AI&fontSize=75&fontColor=FFFFFF&fontAlignY=38&desc=OWN%20YOUR%20DAY&descSize=22&descAlignY=57&animation=fadeIn&stroke=8B5CF6&strokeWidth=1"/>
 
 <br/>
 
-![Wimble AI](https://img.shields.io/badge/WIMBLE_AI-6D28D9?style=for-the-badge)
-![Status](https://img.shields.io/badge/STATUS-IN_DEVELOPMENT-0891B2?style=for-the-badge)
-![AI](https://img.shields.io/badge/ARTIFICIAL_INTELLIGENCE-7C3AED?style=for-the-badge)
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=600&size=18&duration=2500&pause=1000&color=9D8BFF&center=true&vCenter=true&width=700&lines=Welcome+to+Wimble+AI.;A+new+perspective+on+everyday+life.;Intelligence+meets+simplicity.;One+workspace.+Endless+possibilities.;Make+every+day+count." />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/✦-ARTIFICIAL%20INTELLIGENCE-6D28D9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/◈-PERSONAL%20WORKSPACE-0891B2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/STATUS-BUILDING-7C3AED?style=for-the-badge"/>
+
+<br/><br/>
+
+### A little less chaos. A little more intelligence.
+
+[Our Vision](#-our-vision) · [Our Philosophy](#-our-philosophy) · [The Journey](#-the-journey) · [The Founder](#-the-person-behind-the-idea)
 
 </div>
 
@@ -21,108 +25,186 @@
 
 <div align="center">
 
-## ◈ A NEW WAY TO EXPERIENCE YOUR DAY
+# ✦ WHAT IF YOUR DAY COULD THINK WITH YOU?
 
 </div>
 
-**Wimble AI** is an ambitious attempt to rethink how people interact with their everyday digital lives.
+The digital world is full of applications, notifications, disconnected information and endless possibilities.
 
-We are building an intelligent personal workspace where productivity, organisation, personal insights and artificial intelligence come together.
+But what if everything could feel more connected?
 
-Not another collection of disconnected tools.
+**Wimble AI** is an exploration of a smarter personal workspace — bringing artificial intelligence, productivity, organisation and everyday experiences into one connected environment.
 
-**One connected experience.**
+We believe technology should make life simpler, not more complicated.
 
-> Your day deserves more than scattered applications. It deserves intelligence.
-
----
-
-## ✨ The Brand Philosophy
+<br/>
 
 <div align="center">
 
-| ◉ SIMPLICITY | ✦ INTELLIGENCE |
-|:---:|:---:|
-| Less distraction. More clarity. | AI that assists with everyday decisions. |
-| ◈ CONNECTION | ⌘ OWNERSHIP |
-| A connected digital experience. | Own your day, your way. |
+<img width="85%" src="https://capsule-render.vercel.app/api?type=blur&height=100&color=0:312E81,50:6D28D9,100:0891B2&text=ONE%20CONNECTED%20EXPERIENCE&fontSize=22&fontColor=FFFFFF&animation=fadeIn"/>
 
 </div>
 
 ---
 
-## 🧠 What We're Building
-
-- An intelligent AI assistant.
-- A connected personal workspace.
-- Productivity and organisation experiences.
-- Personal finance and planning tools.
-- A unified experience for everyday workflows.
-
-*Features are actively being developed and refined.*
-
----
-
-## ⚙️ Technology Behind Wimble
+# ◈ Our Vision
 
 <div align="center">
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=19&duration=3500&pause=1000&color=06B6D4&center=true&vCenter=true&width=650&lines=Technology+should+understand+your+day.;AI+should+feel+natural.;Productivity+should+feel+effortless." />
 
 </div>
 
-| Technology | Purpose |
-|---|---|
-| React | User interface |
-| TypeScript | Application development |
-| Supabase | Database and backend |
-| Google Gemini | AI capabilities |
-| Vercel | Deployment and hosting |
-| GitHub | Version control |
+We envision a world where your digital workspace understands your needs, helps you organise your thoughts and assists you in navigating everyday life.
+
+Wimble is being built around one simple idea:
+
+> Your technology should work around your life, not the other way around.
 
 ---
 
-## 🚀 The Journey
+# ✨ Our Philosophy
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+### ◉ SIMPLICITY
+
+Less clutter. More clarity.
+
+</td>
+<td align="center" width="50%">
+
+### ✦ INTELLIGENCE
+
+Technology with purpose.
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+### ◈ CONNECTION
+
+A unified digital experience.
+
+</td>
+<td align="center" width="50%">
+
+### ⌘ OWNERSHIP
+
+Take control of your day.
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🧠 The Wimble Experience
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:06B6D4,50:8B5CF6,100:EC4899"/>
+
+</div>
+
+| Experience | Our Direction |
+|:---|:---|
+| 🤖 AI Assistance | Intelligent everyday assistance |
+| 📅 Organisation | A more organised personal life |
+| 💡 Productivity | Better ways to manage daily work |
+| 📊 Personal Insights | Understand your activities and progress |
+| 💰 Finance | A connected personal finance experience |
+| 🔎 Discovery | Search, information and useful insights |
+
+<sub>These represent the product vision. Features are subject to development and refinement.</sub>
+
+---
+
+# 🎨 The Brand Identity
+
+<div align="center">
+
+| Colour | Identity |
+|:---:|:---|
+| <img src="https://via.placeholder.com/30/09090F/09090F.png"/> | Midnight — Depth |
+| <img src="https://via.placeholder.com/30/312E81/312E81.png"/> | Indigo — Focus |
+| <img src="https://via.placeholder.com/30/6D28D9/6D28D9.png"/> | Violet — Intelligence |
+| <img src="https://via.placeholder.com/30/0891B2/0891B2.png"/> | Cyan — Clarity |
+
+**Our design direction:** Minimal, modern, expressive and distraction-free.
+
+</div>
+
+---
+
+# ⚡ The Journey
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=17&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=An+idea+becomes+a+vision.;A+vision+becomes+a+product.;A+product+evolves+with+people." />
+
+</div>
 
 <details>
-<summary><b>01 — The Beginning</b></summary>
+<summary>01 · The Idea</summary>
 
-An idea to rethink everyday digital productivity and build a more intelligent personal workspace.
+Questioning how everyday digital experiences could become more connected and intelligent.
 
 </details>
 
 <details>
-<summary><b>02 — Building the Foundation</b></summary>
+<summary>02 · The Foundation</summary>
 
-Designing the experience, architecture, AI integration and infrastructure.
+Exploring product architecture, interface design, AI capabilities and the infrastructure behind Wimble.
 
 </details>
 
 <details>
-<summary><b>03 — What Comes Next</b></summary>
+<summary>03 · The Development</summary>
 
-Testing, refining, learning and evolving Wimble into a product people genuinely value.
+Building, experimenting, testing and continuously improving the experience.
+
+</details>
+
+<details>
+<summary>04 · The Future</summary>
+
+Creating something genuinely useful, meaningful and worth returning to every day.
 
 </details>
 
 ---
 
-## 👨‍💻 The Founder
+# 🌌 A Thought Behind Wimble
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/FOUNDER-CHETAN_ATAPALAKAR-6D28D9?style=for-the-badge"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=170&color=0:111827,45:312E81,100:6D28D9&text=OWN%20YOUR%20DAY&fontSize=42&fontColor=FFFFFF&animation=fadeIn"/>
 
-# @ChetanFounder
+### Your day is yours. Make it count.
 
-**Founder & Independent Builder — Wimble AI**
+</div>
 
-Building from an idea, one iteration at a time.
+---
+
+# 👨‍💻 The Person Behind the Idea
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/FOUNDER%20%26%20BUILDER-6D28D9?style=for-the-badge"/>
+
+# CHAITAN ATAPALAKAR
+
+### Founder of Wimble AI
+
+An independent builder exploring ideas at the intersection of artificial intelligence, technology and everyday life.
+
+Building with curiosity. Learning through creation. Improving with every iteration.
+
+<br/>
 
 *"Think beyond the ordinary. Build beyond the obvious."*
 
@@ -132,12 +214,20 @@ Building from an idea, one iteration at a time.
 
 <div align="center">
 
-## ✦ The Beginning of Something Different.
+# ✦ THIS IS JUST THE BEGINNING.
 
-### WIMBLE AI — OWN YOUR DAY.
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=600&size=18&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=500&lines=Ideas+are+easy.+Building+is+the+journey.;Welcome+to+Wimble+AI." />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,40:6D28D9,100:111827&height=120&section=footer" width="100%"/>
+<br/>
 
-<sub>© 2026 Wimble AI. Built with curiosity and ambition.</sub>
+### WIMBLE AI
+
+**OWN YOUR DAY.**
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:06B6D4,35:312E81,70:6D28D9,100:09090F"/>
+
+<sub>Conceived and built by Chaitan Atapalakar · © 2026 Wimble AI</sub>
 
 </div>
